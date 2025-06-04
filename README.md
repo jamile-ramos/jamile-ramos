@@ -1,7 +1,8 @@
 ### Olá! Eu sou um Jamile Ramos, desenvolvedora Full Stack 👋
 
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamileramosss/](https://www.instagram.com/mile.sramoss/))
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jamile.silvaramos.3)   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamile-da-silva-ramos/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mile.sramoss/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jamile.silvaramos.3)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamile-da-silva-ramos/)
 
 ![jamile-ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=jamile-ramos&theme=holi&show_icons=true)
 
